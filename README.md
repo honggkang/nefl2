@@ -7,7 +7,7 @@
     <a href="https://alinlab.kaist.ac.kr/shin.html" style="text-decoration:none;">Jinwoo Shin</a>,&nbsp;&nbsp;&nbsp;&nbsp;
     Jongmyeong Lee,&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://artlab.kaist.ac.kr/bbs/board.php?bo_table=sub1_1" style="text-decoration:none;">Joonhyuk Kang</a><br>
-    <a href="https://www.kaist.ac.kr/en/" style="text-decoration:none;">KAIST</a><br>
+    <a href="https://www.kaist.ac.kr/en/" style="text-decoration:none;">KAIST</a>
   </span>
 </p>
 <p align="center">
