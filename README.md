@@ -6,11 +6,10 @@
     <a href="https://seohyeon-cha.github.io/" style="text-decoration:none;">Seohyeon Cha</a>,&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://alinlab.kaist.ac.kr/shin.html" style="text-decoration:none;">Jinwoo Shin</a>,&nbsp;&nbsp;&nbsp;&nbsp;
     Jongmyeong Lee,&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://artlab.kaist.ac.kr/bbs/board.php?bo_table=sub1_1" style="text-decoration:none;">Joonhyuk Kang</a><br><br>
-    <a href="https://www.kaist.ac.kr/en/" style="text-decoration:none;">KAIST</a><br><br>
+    <a href="https://artlab.kaist.ac.kr/bbs/board.php?bo_table=sub1_1" style="text-decoration:none;">Joonhyuk Kang</a><br>
   </span>
 </p>
-
+<a href="https://www.kaist.ac.kr/en/" style="text-decoration:none;">KAIST</a><br>
 <p align="center">
   <span style="font-size:16px">
     <a href="https://arxiv.org/abs/2308.07761" style="text-decoration:none;">[Paper]</a>&nbsp;&nbsp;&nbsp;
